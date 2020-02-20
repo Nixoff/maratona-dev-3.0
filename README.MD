@@ -7,14 +7,14 @@
 
 > Application code developed during the Dev 3.0 Marathon
 
-### ✨ [Demo](https://www.nixoff.ga/doe-project)
+### ✨ [Demo](http://www.nixoff.ga/doe-project)
 
 ## Author
 
 👤 **NixOFF**
 
-* Website: https://nixoff.ga/
-* Twitter: [@\_Gabrilho](https://twitter.com/\_Gabrilho)
+* Website: http://nixoff.ga/
+* Twitter: [@_Gabrilho](https://twitter.com/_Gabrilho)
 * Github: [@Nixoff](https://github.com/Nixoff)
 
 ## Show your support
